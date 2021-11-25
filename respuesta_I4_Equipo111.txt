@@ -1,0 +1,9 @@
+Aguirre Laureano, Monsalbo Lucio, Caretti Nicolas.
+A) Quedo de color AZUL.
+B) Quedo de color AMARILLO.
+C) En el archivo estudio.css del main, contiene ambos colores, azul y amarillo, por lo cual, nos quedo blanco.
+D) Quedo el favicon de BETA.
+E) Si, tanto BETA como GAMMA.
+F y G) Ocurrieron dos problemas, el primero, es que GAMMA luego de hacer un merge de TESTING al MASTER, no lo dejaba, ya que nos habiamos olvidado de añadir un archivo. La forma de solucionarlo, fue abortar el merge, y luego añadir el archivo faltante y pushearlo. Otro inconveniente, fue que BETA y GAMMA no podian realizar el ultimo push, y la forma de solucionarlo fue con un git push -f.
+H) Se realiza el push, ya que de esa manera, lo estamos forzando.
+I) La manera de hacerlo, es que el primer integrante, realice el punto 18 y lo pushea. Luego, el segundo integrante, pullea esa actualizacion, y realiza el punto 19, y luego lo pushea. Y por ultimo, el tercer integrante, pullea la actualizacion del segundo, y realiza el punto 20 y lo pushea. De esta manera, los 3 puntos estaran en el mismo index.html.
