@@ -1,4 +1,0 @@
-A) Nos quedo el color azul.
-B) Nos quedo el color amarillo.
-C)Nos quedo el color blanco, pero en estilo.css del main, contiene ambos colores, por lo cual, nos quedo asi.
-D) El favicon que quedo, es el de BETA.
